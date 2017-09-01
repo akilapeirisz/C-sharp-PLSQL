@@ -1,0 +1,7 @@
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resource1.resources
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resource2.resources
+D:\C#Test\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csproj.GenerateResource.Cache

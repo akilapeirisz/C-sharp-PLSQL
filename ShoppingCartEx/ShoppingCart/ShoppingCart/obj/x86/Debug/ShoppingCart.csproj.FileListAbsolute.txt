@@ -1,0 +1,4 @@
+D:\C#Test\ShoppingCartEx\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+D:\C#Test\ShoppingCartEx\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\C#Test\ShoppingCartEx\ShoppingCart\ShoppingCart\obj\x86\Debug\ShoppingCart.exe
+D:\C#Test\ShoppingCartEx\ShoppingCart\ShoppingCart\obj\x86\Debug\ShoppingCart.pdb

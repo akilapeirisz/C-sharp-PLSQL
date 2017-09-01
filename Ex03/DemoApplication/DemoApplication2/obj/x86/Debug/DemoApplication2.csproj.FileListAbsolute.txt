@@ -1,0 +1,4 @@
+D:\C#Test\Ex03\DemoApplication\DemoApplication2\bin\Debug\DemoApplication2.exe
+D:\C#Test\Ex03\DemoApplication\DemoApplication2\bin\Debug\DemoApplication2.pdb
+D:\C#Test\Ex03\DemoApplication\DemoApplication2\obj\x86\Debug\DemoApplication2.exe
+D:\C#Test\Ex03\DemoApplication\DemoApplication2\obj\x86\Debug\DemoApplication2.pdb
