@@ -1,0 +1,14 @@
+
+            string oradb = "Data Source=cmbtrndb02/app8sp2;User Id=ifsapp;Password=ifsapp;";
+            OracleConnection conn = new OracleConnection(oradb);  // C#
+            conn.Open();
+            label1.Text = conn.State.ToString();
+            OracleCommand cmd = new OracleCommand();
+            cmd.Connection = conn;
+            cmd.CommandText = "select num from LIBRARY_DB_APEILK_ADDRESS_TAB";
+            cmd.CommandType = CommandType.Text;
+            OracleDataReader dr = cmd.ExecuteReader();
+            label1.Text = dr.RowSize.ToString();
+            dr.Read();
+            label1.Text = dr.GetString(0);
+            conn.Dispose();

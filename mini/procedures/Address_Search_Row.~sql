@@ -1,0 +1,6 @@
+CREATE OR REPLACE PROCEDURE lib_db_apeilk_address_search_(se_id_ IN NUMBER, row_ OUT VARCHAR2) IS
+  BEGIN
+   SELECT * INTO row_ FROM library_db_apeilk_address_tab
+    WHERE address_id=se_id_; 
+  
+  END lib_db_apeilk_address_search_;

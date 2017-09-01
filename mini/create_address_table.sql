@@ -1,0 +1,2 @@
+CREATE TABLE library_db_apeilk_address_tab OF library_db_apeilk_address_type;
+ALTER TABLE library_db_apeilk_address_tab ADD CONSTRAINT library_db_apeilk_address_tab_pk PRIMARY KEY (address_id);

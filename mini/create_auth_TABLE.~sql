@@ -1,0 +1,13 @@
+BEGIN
+   EXECUTE IMMEDIATE 'DROP TABLE library_db_apeilk_author_Tab';
+CREATE TABLE library_db_apeilk_author_tab OF library_db_apeilk_author_type;
+EXCEPTION
+   WHEN OTHERS THEN
+      IF SQLCODE != -942 THEN
+         RAISE;
+      END IF;
+END;
+
+/* CREATE library_db_apeilk_author_Tab TABLE */
+CREATE TABLE library_db_apeilk_author_tab OF library_db_apeilk_author_type;
+/* --------------------------------------------------- */
